@@ -1,0 +1,22 @@
+{
+    "Rule_1":
+        {
+            "Rule_num":"Rule_1",
+            "datatype":"HeartRate",
+            "avg_min": 85,
+            "avg_max": 90,
+            "trigger_count": 3,
+            "max_alert": "HeartRate High",
+            "min_alert": "HeartRate Low"
+        },
+    "Rule_2":
+        {
+            "Rule_num":"Rule_2",
+            "datatype":"Temperature",
+            "avg_min": 98.5,
+            "avg_max": 99,
+            "trigger_count": 3,
+            "max_alert": "Temperature High",
+            "min_alert": "Temperature Low"
+        }
+}

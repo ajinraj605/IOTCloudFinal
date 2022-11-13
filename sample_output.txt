@@ -1,0 +1,18 @@
+Agg_Table  created
+Anomaly_Table  created
+Aggregating data for device BSM_G101
+Aggregating data for device BSM_G102
+Processing rules for device BSM_G101
+Alert for device_id BSM_G101 on rule Rule_2 starting at 2022-06-08 21:46:02.716185 with the alert type Temperature High
+Alert for device_id BSM_G101 on rule Rule_1 starting at 2022-06-08 22:02:03.558141 with the alert type HeartRate Low
+Alert for device_id BSM_G101 on rule Rule_1 starting at 2022-06-08 22:11:03.207793 with the alert type HeartRate Low
+Alert for device_id BSM_G101 on rule Rule_1 starting at 2022-06-08 22:25:03.247887 with the alert type HeartRate Low
+Alert for device_id BSM_G101 on rule Rule_2 starting at 2022-06-08 22:32:02.711027 with the alert type Temperature High
+Alert for device_id BSM_G101 on rule Rule_2 starting at 2022-06-08 22:41:02.704512 with the alert type Temperature High
+Alert for device_id BSM_G101 on rule Rule_2 starting at 2022-06-08 22:44:02.710512 with the alert type Temperature High
+Alert for device_id BSM_G101 on rule Rule_1 starting at 2022-06-08 22:51:03.241580 with the alert type HeartRate Low
+Processing rules for device BSM_G102
+Alert for device_id BSM_G102 on rule Rule_1 starting at 2022-06-08 21:14:55.627925 with the alert type HeartRate Low
+Alert for device_id BSM_G102 on rule Rule_2 starting at 2022-06-08 21:21:55.155070 with the alert type Temperature High
+Alert for device_id BSM_G102 on rule Rule_2 starting at 2022-06-08 21:26:55.147583 with the alert type Temperature High
+Alert for device_id BSM_G102 on rule Rule_1 starting at 2022-06-08 21:27:56.082264 with the alert type HeartRate Low
